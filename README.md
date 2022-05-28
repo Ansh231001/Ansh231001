@@ -41,23 +41,12 @@
         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
     </div>
 
-
-
-
+<div style="display: block;">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = '[https://www.linkedin.com/in/](https://www.linkedin.com/in/ansh-gupta-b9956a208/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'anshgupta231001@gmail.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = '[https://www.linkedin.com/in/](https://www.linkedin.com/in/ansh-gupta-b9956a208/)'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 <a href = 'https://www.github.com/Ansh231001'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
+</div>  
 <br>
-<br>
-  <br>
-  
-
-
-<br>
-
-
 -----
 Credits: [Ansh Gupta](https://github.com/Ansh231001)
 
