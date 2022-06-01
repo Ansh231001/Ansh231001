@@ -7,8 +7,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Ansh231001.Ansh231001)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Ansh231001)
 
 <div size='20px'> Hi! My name is Ansh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
